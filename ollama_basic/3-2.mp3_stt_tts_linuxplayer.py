@@ -6,7 +6,7 @@
 
 # STT : faster-whisper
 # TTS : edge-tts
-# uv pip install ollama faster-whisper edge-tts pygame
+# uv add ollama faster-whisper edge-tts pygame
 
 # sudo apt update
 # sudo apt install -y libpulse0 pulseaudio-utils libasound2-plugins

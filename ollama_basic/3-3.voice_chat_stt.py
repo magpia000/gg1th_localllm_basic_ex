@@ -11,7 +11,7 @@
 # sudo apt install -y libportaudio2 portaudio19-dev libasound2-dev \
 #   libpulse0 pulseaudio-utils libasound2-plugins mpg123
 #
-# pip install ollama sounddevice scipy faster-whisper edge-tts pygame
+# uv add ollama sounddevice scipy faster-whisper edge-tts pygame
 
 # WSL에서 마이크 인식시키기
 # pactl list short sources

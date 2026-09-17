@@ -32,7 +32,7 @@
 # 설치:
 # sudo apt install -y libportaudio2 portaudio19-dev libasound2-dev \
 #   libpulse0 pulseaudio-utils libasound2-plugins alsa-utils
-# uv pip install ollama sounddevice scipy faster-whisper pygame piper-tts
+# uv add ollama sounddevice scipy faster-whisper pygame piper-tts
 
 # WSL에서 마이크 인식시키기
 # pactl list short sources

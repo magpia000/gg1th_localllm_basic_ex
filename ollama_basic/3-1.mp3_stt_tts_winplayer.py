@@ -8,7 +8,7 @@
 # TTS : edge-tts
 #
 # 설치:
-# pip install ollama faster-whisper edge-tts pygame
+# uv add ollama faster-whisper edge-tts pygame
 ###############################################
 
 import asyncio
